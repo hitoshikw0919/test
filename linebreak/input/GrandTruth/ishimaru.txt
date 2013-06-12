@@ -1,0 +1,166 @@
+The_savannah-1	0	2	367	664
+The_savannah-1	0	3	665	860
+The_savannah-1	0	4	870	1052
+The_savannah-1	0	5	1059	1264
+The_savannah-1	0	6	1276	1462
+The_savannah-1	0	7	1467	1679
+The_savannah-1	0	8	1687	1721
+The_savannah-1	0	9	1729	1804
+The_savannah-1	0	10	1815	1895
+The_savannah-1	0	11	1900	1955
+The_savannah-1	0	12	1963	2003
+The_savannah-1	0	13	2007	2104
+The_savannah-1	0	14	2140	2198
+The_savannah-1	0	15	2204	2291
+The_savannah-1	0	16		
+The_savannah-1	0	17	2297	2418
+Ainsley_Harriott-1	1	2	193	330
+Ainsley_Harriott-1	1	3	338	465
+Ainsley_Harriott-1	1	4	468	480
+Ainsley_Harriott-1	1	5	482	594
+Ainsley_Harriott-1	1	6	604	702
+Ainsley_Harriott-1	1	7	712	767
+Ainsley_Harriott-1	1	8	779	809
+Ainsley_Harriott-1	1	9	823	842
+Ainsley_Harriott-1	1	10	851	869
+Ainsley_Harriott-1	1	11		
+Ainsley_Harriott-1	1	12	885	935
+Ainsley_Harriott-1	1	13	943	982
+Ainsley_Harriott-1	1	14	988	1030
+Ainsley_Harriott-1	1	15	1079	1107
+Ainsley_Harriott-1	1	16	1112	1128
+JAZZ-1	2	2		
+JAZZ-1	2	3		
+JAZZ-1	2	4	469	573
+JAZZ-1	2	5	581	702
+JAZZ-1	2	6	707	812
+JAZZ-1	2	7	816	862
+JAZZ-1	2	8	876	888
+JAZZ-1	2	9	890	991
+JAZZ-1	2	10	1000	1054
+JAZZ-1	2	11	1065	1110
+JAZZ-1	2	12	1116	1149
+JAZZ-1	2	13	1151	1222
+JAZZ-1	2	14	1231	1273
+JAZZ-1	2	15	1283	1312
+JAZZ-1	2	16	1324	1335
+JAZZ-1	2	17		
+JAZZ-1	2	18	1343	1513
+JAZZ-1	2	19	1521	1542
+Alternative_medicine-1	3	2	133	266
+Alternative_medicine-1	3	3	277	366
+Alternative_medicine-1	3	4	373	435
+Alternative_medicine-1	3	5	444	544
+Alternative_medicine-1	3	6	554	646
+Alternative_medicine-1	3	7	655	746
+Alternative_medicine-1	3	8	755	830
+Alternative_medicine-1	3	9	844	855
+Alternative_medicine-1	3	10	858	953
+Alternative_medicine-1	3	11	961	995
+Alternative_medicine-1	3	12	1005	1102
+Alternative_medicine-1	3	13	1108	1159
+Alternative_medicine-1	3	14	1165	1198
+Alternative_medicine-1	3	15	1207	1228
+Alternative_medicine-1	3	16	1262	1280
+Dear_Editor-1	4	2		
+Dear_Editor-1	4	3	328	418
+Dear_Editor-1	4	4	428	448
+Dear_Editor-1	4	5		
+Dear_Editor-1	4	6	457	504
+Dear_Editor-1	4	7	515	533
+Dear_Editor-1	4	8	544	555
+Dear_Editor-1	4	9	560	578
+Dear_Editor-1	4	10	584	633
+Dear_Editor-1	4	11	637	673
+Dear_Editor-1	4	12	681	732
+Dear_Editor-1	4	13	740	763
+Dear_Editor-1	4	14	773	833
+Dear_Editor-1	4	15		
+Dear_Editor-1	4	16	842	970
+Dear_Editor-1	4	17	975	1000
+Dear_Editor-1	4	18		
+Dear_Editor-1	4	19		
+Dear_Editor-1	4	20	1032	1133
+Dear_Editor-1	4	21	1152	1190
+Walden-1	5	2	160	293
+Walden-1	5	3	313	390
+Walden-1	5	4	400	457
+Walden-1	5	5	465	504
+Walden-1	5	6	525	572
+Walden-1	5	7	581	603
+Walden-1	5	8	617	639
+Walden-1	5	9	650	698
+Walden-1	5	10	709	730
+Walden-1	5	11	788	880
+Walden-1	5	12	896	917
+Walden-1	5	13	933	982
+Walden-1	5	14	987	1012
+Walden-1	5	15	1022	1053
+Walden-1	5	16	1066	1095
+Walden-1	5	17	1100	1154
+Walden-1	5	18	1160	1254
+Walden-1	5	19	1266	1307
+Walden-1	5	20	1312	1350
+The_western_alphabet-1	6	2	65	167
+The_western_alphabet-1	6	3	182	304
+The_western_alphabet-1	6	4	320	397
+The_western_alphabet-1	6	5	404	518
+The_western_alphabet-1	6	6	537	667
+The_western_alphabet-1	6	7	675	696
+The_western_alphabet-1	6	8		
+The_western_alphabet-1	6	9	730	774
+The_western_alphabet-1	6	10	790	828
+The_western_alphabet-1	6	11	840	952
+The_western_alphabet-1	6	12	960	1074
+The_western_alphabet-1	6	13	1088	1141
+The_western_alphabet-1	6	14	1159	1291
+The_western_alphabet-1	6	15	1297	1352
+The_western_alphabet-1	6	16	1360	1390
+The_western_alphabet-1	6	17	1396	1416
+Different_Colours-1	7	2	244	353
+Different_Colours-1	7	3	360	451
+Different_Colours-1	7	4	464	584
+Different_Colours-1	7	5	600	705
+Different_Colours-1	7	6	715	892
+Different_Colours-1	7	7	910	1042
+Different_Colours-1	7	8	1059	1226
+Different_Colours-1	7	9	1238	1341
+Different_Colours-1	7	10		
+Different_Colours-1	7	11	1359	1426
+Different_Colours-1	7	12	1440	1492
+Different_Colours-1	7	13	1501	1523
+Different_Colours-1	7	14	1530	1550
+Different_Colours-1	7	15	1550	1585
+Different_Colours-1	7	16		
+Different_Colours-1	7	17	1619	1658
+Different_Colours-1	7	18	1669	1695
+Body_Shop-1	8	2	108	206
+Body_Shop-1	8	3	216	429
+Body_Shop-1	8	4	441	598
+Body_Shop-1	8	5	616	770
+Body_Shop-1	8	6	779	830
+Body_Shop-1	8	7	838	1044
+Body_Shop-1	8	8	1060	1247
+Body_Shop-1	8	9	1258	1350
+Body_Shop-1	8	10	1357	1506
+Body_Shop-1	8	11	1515	1689
+Body_Shop-1	8	12	1697	1741
+Body_Shop-1	8	13	1750	1757
+Doug_Allan,_Wildlife_Cameraman-1	9	2	267	348
+Doug_Allan,_Wildlife_Cameraman-1	9	3	361	485
+Doug_Allan,_Wildlife_Cameraman-1	9	4		
+Doug_Allan,_Wildlife_Cameraman-1	9	5	502	646
+Doug_Allan,_Wildlife_Cameraman-1	9	6	661	745
+Doug_Allan,_Wildlife_Cameraman-1	9	7		
+Doug_Allan,_Wildlife_Cameraman-1	9	8	769	940
+Doug_Allan,_Wildlife_Cameraman-1	9	9	962	1067
+Doug_Allan,_Wildlife_Cameraman-1	9	10	1073	1122
+Doug_Allan,_Wildlife_Cameraman-1	9	11		
+Doug_Allan,_Wildlife_Cameraman-1	9	12	1152	1369
+Doug_Allan,_Wildlife_Cameraman-1	9	13	1420	1517
+Doug_Allan,_Wildlife_Cameraman-1	9	14		
+Doug_Allan,_Wildlife_Cameraman-1	9	15	1526	1644
+Doug_Allan,_Wildlife_Cameraman-1	9	16	1652	1664
+Doug_Allan,_Wildlife_Cameraman-1	9	17		
+Doug_Allan,_Wildlife_Cameraman-1	9	18	1680	1882
+Doug_Allan,_Wildlife_Cameraman-1	9	19	1898	2076
